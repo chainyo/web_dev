@@ -1,9 +1,9 @@
 html {
-    background-color: #0099cc;
+    background-color: #49a0b4;
 }
 
 body {
-    background-color: #0099cc;
+    background-color: #49a0b4;
 }
 
 .nav-item {
@@ -14,9 +14,13 @@ body {
 #nav {
     margin: 10px;
     font-size: 30px;
-    background-color: #0099cc;
+    background-color: #49a0b4;
 }
 
 #head {
     margin-top: 50px;
+}
+
+#tab-title {
+    background-color: white;
 }
