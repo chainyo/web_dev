@@ -1,0 +1,22 @@
+html {
+    background-color: #0099cc;
+}
+
+body {
+    background-color: #0099cc;
+}
+
+.nav-item {
+    margin-right: 30px;
+    background-color: orange;
+}
+
+#nav {
+    margin: 10px;
+    font-size: 30px;
+    background-color: #0099cc;
+}
+
+#head {
+    margin-top: 50px;
+}
