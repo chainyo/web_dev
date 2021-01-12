@@ -1,0 +1,64 @@
+#conteneur
+{
+    display: flex;
+    width: 1000px;
+    height: 600px;
+}
+#box
+{
+    display: flex;
+    width: 1000px;
+    height: 100px;
+    justify-items: start;
+}
+#bbox
+{
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-items: end;    
+}
+
+.element1
+{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    flex-direction: column;
+    background-color: blue;
+    font-size: large;
+    justify-items: flex-start;
+}
+
+
+.element2
+{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    flex-direction: column-reverse;
+    align-content: flex-end;
+}
+.element3
+{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.html_image{
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+}
+.red {
+    color: red;
+}
+ul{
+    padding-left: 18px;
+}

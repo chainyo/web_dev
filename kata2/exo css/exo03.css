@@ -1,0 +1,22 @@
+.carre{
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: #80ffd4;
+}
+h1{
+    background-color: yellow;
+    display: inline;
+
+}
+.cube{
+    display: flex;
+    flex-direction: row;
+    
+}
+.main{
+    width: 500px;
+    height: 300px;
+    border: 2px solid #333;
+    padding: 10px;
+}
