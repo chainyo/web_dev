@@ -28,10 +28,10 @@ import * as d3 from "d3";
 Pour la sélection des items à modifier sur la page `html`, le framework dispose d'un sélecteur intégré :
 
 ```js
-// Sélection de tous les paragraphes p
+// Sélection de tous les paragraphes p et ajout d'une couleur bleue
 d3.selectAll("p").style("color", "blue");
 
-// Sélection d'un node individuel
+// Sélection d'un node individuel (ici body) et ajout d'une couleur de fond noire
 d3.select("body").style("background-color", "black");
 ```
 
