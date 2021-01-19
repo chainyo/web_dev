@@ -8,6 +8,9 @@
 
 Lien vers la [documentation officielle](https://github.com/d3/d3/wiki)
 
+Lien vers la [plateforme d'exploration](https://observablehq.com/) des possibilités du framework.
+C'est un gigantesque notebook qui permet de tester les fonctionnalités et qui propose déjà exemples de présentations animées.
+
 ### Importation
 
 Pour importer la librairie, il faut inclure ce script dans la page html désirée (tout en bas).
